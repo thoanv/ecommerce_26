@@ -11,7 +11,8 @@ use App\Helpers\Library;
 use DB;
 
 class ProductController extends Controller
-{
+{dsfghjklkjhgfdsxc
+    dfbngbvcx
     protected $productRepository;
     protected $cateRepository;
 
