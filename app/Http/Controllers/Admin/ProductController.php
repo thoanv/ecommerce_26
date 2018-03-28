@@ -13,6 +13,7 @@ use DB;
 class ProductController extends Controller
 {dsfghjklkjhgfdsxc
     dfbngbvcx
+    ghjkgcvnm
     protected $productRepository;
     protected $cateRepository;
 
